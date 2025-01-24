@@ -93,3 +93,7 @@ Responsive Design:
 
 The webpage adapted perfectly to screens of all sizes, ensuring usability across devices.
 Overall, the project demonstrated a robust integration of tools, libraries, and resources, resulting in a professional and functional webpage.
+
+
+#OUTPUT OF TASK
+![Image](https://github.com/user-attachments/assets/167fb4a0-7141-4357-b9af-f2912703fd38)
